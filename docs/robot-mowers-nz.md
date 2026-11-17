@@ -72,6 +72,6 @@ Slope rating and drive (2WD/AWD), navigation type and what it needs (RTK base st
 
 ## Open questions
 
-- How big is the step at the path crossing? This decides whether a small ramp is enough.
+- Step at the path crossing: the user's rough estimate is ~5 cm (2026-11-17), not yet measured. Measure from a board resting on the soil, not the grass tips, and check whether the edge drops straight down or slopes. At ~5 cm, plan on a ramp or levelling the turf.
 - Would the user add flush mowing strips along paths and fences? That would remove most of the hand-trimming.
 - Edge and area cells marked "?" need checking against spec sheets if a model makes the shortlist.
