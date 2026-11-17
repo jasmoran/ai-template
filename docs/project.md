@@ -8,6 +8,7 @@ Not yet defined. The repo was created on YYYY-MM-DD and has no code yet.
 
 Newest first. Each entry says how far the work was verified.
 
+- 2026-11-17: Researched robot lawnmowers sold in NZ; table in `docs/robot-mowers-nz.md`. Web research only, prices not re-checked with retailers.
 - YYYY-MM-DD: Repo initialized with CLAUDE.md and a docs structure. No code yet.
 
 ## Open questions

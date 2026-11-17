@@ -31,6 +31,7 @@ The user should never have to re-explain earlier conversations or give the same 
 | File | Contains | Read when |
 |------|----------|-----------|
 | `docs/project.md` | What the project is, current status, open questions, next steps | Every session |
+| `docs/robot-mowers-nz.md` | Nov 2026 comparison of robot lawnmowers sold in NZ (price, area, edges, wire, ratings) | Robot mower research |
 | `docs/decisions.md` | Dated log of decisions and user preferences, with reasons (the current design lives in the topic docs) | Before making a design or tooling choice |
 
 ## Rule 2: Commit early and often
