@@ -72,6 +72,6 @@ Slope rating and drive (2WD/AWD), navigation type and what it needs (RTK base st
 
 ## Open questions
 
-- Step at the path crossing: the user's rough estimate is ~5 cm (2026-11-17), not yet measured. Measure from a board resting on the soil, not the grass tips, and check whether the edge drops straight down or slopes. At ~5 cm, plan on a ramp or levelling the turf.
+- Step at the path: measured by the user as ~3 cm and abrupt (2026-11-17). Too high for a wired mower to cross, since manufacturers want paving within ~1 cm of lawn level. Options: raise the path, or (cheaper) lift the turf along the path edge, take out ~3 cm of soil and relay it so it sits flush. Once flush, keep the path inside the boundary wire and the mower crosses it and cuts the path edges. Still open: does the path run between two lawn areas, along the edge of the lawn, or out of the mowing area?
 - Would the user add flush mowing strips along paths and fences? That would remove most of the hand-trimming.
 - Edge and area cells marked "?" need checking against spec sheets if a model makes the shortlist.
