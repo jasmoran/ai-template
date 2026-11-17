@@ -43,11 +43,35 @@ Wire: **No** = RTK/GPS, camera or LiDAR virtual boundary; **EPOS add-on** = Husq
 Not listed (big/commercial): Husqvarna 535/540/560/580 EPOS ($10.5–16.9k), Navimow Terranox ($15–19k), Yarbo Pro ($15k), Lymow One Plus ($6.8k), Mammotion Maston ($45k).
 Not found in NZ: Ryobi and Ozito robot mowers (Bunnings NZ sells none), Dreame A2/A3, Ecovacs O800/A1600, Worx Landroid Vision (sold in AU, NZ unclear).
 
+## User's lawn and requirements (stated 2026-11-17)
+
+- About 250 m², flat (under 5°), irregular shape, one contiguous area crossed by an ungated path. The mower has to cross it.
+- The lawn sits several cm above the surrounding paths and concrete. The user wants grass growing over onto those trimmed.
+- Several edges run right up to fences.
+- One edge is a hedge the grass grows slightly under. The user wants the mower to go under it to stop grass spreading; it won't get near the trunks.
+- Light tree cover in places, no trunks in the lawn.
+- Boundary wire is fine. The user will install it themselves.
+- No running costs beyond occasional blades, so no subscriptions.
+- Rainproof is enough. Theft protection is nice to have but not worth paying extra for. Noise and safety don't matter much, since it runs during the day with nobody home.
+- Must finish the 250 m² within 8 hours. Cutting width and runtime don't matter otherwise.
+
+## Shortlist for these requirements
+
+1. **Husqvarna 310E NERA ($3,790).** EdgeCut is a separate rear disc that runs along the boundary and works with a physical wire (confirmed on Husqvarna NZ's support page). It's the only wired model found that cuts the strip a wired mower otherwise leaves by fences and drops. Oversized (1,000 m²), but it's the cheapest model with EdgeCut. The 410XE has the same EdgeCut for $700 more and adds nothing this lawn needs.
+2. **Worx Landroid M700 (~$1,699).** Blade offset to one side ("cut to edge", about 4.5 cm from the edge of the body). Cheap and wired. The edge result depends on how the wire is laid, and the classic manual says to keep the wire 26 cm from a step.
+3. **Gardena Sileno City / Minimo 250 ($1,349–1,648).** Cheapest. Sized for exactly 250 m², which is fine given the 8-hour window. No edge feature, so plan on hand-trimming every edge.
+
+Physical limits (apply to every model):
+- No robot mower trims grass hanging over a raised edge onto a lower path. Hand trimming stays, or a flush mowing strip removes the problem.
+- Wire distance rules: about 35 cm from fences and walls; 10 cm from paving only if the paving is within about 1 cm of lawn level; and keep away from drops (Worx says 26 cm from a step). With a lawn several cm above the path, the path crossing needs a ramp or levelled section.
+- Under the hedge: lay the wire as far under as it should mow. Low branches can set off the bump sensor.
+
 ## Extra columns suggested to the user
 
 Slope rating and drive (2WD/AWD), navigation type and what it needs (RTK base station, network RTK/4G subscription, clear sky view under trees), narrow-passage and multi-zone handling, cut height range, obstacle/hedgehog/pet safety, rain and IP rating, noise, anti-theft (GPS/4G, PIN), ongoing costs (subscriptions, blades), NZ warranty and local service.
 
 ## Open questions
 
-- Which extra columns does the user want, and what's their lawn size, slope and tree cover? That narrows the list a lot.
+- How big is the step at the path crossing? This decides whether a small ramp is enough.
+- Would the user add flush mowing strips along paths and fences? That would remove most of the hand-trimming.
 - Edge and area cells marked "?" need checking against spec sheets if a model makes the shortlist.

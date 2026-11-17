@@ -16,3 +16,8 @@ Commit after each coherent unit of work, and before running long tests or builds
 
 Notion, Slack, Google Docs and similar are changed only when the user explicitly asks.
 **Why:** User preference. A stale doc the user linked was once rewritten without being asked, and they had to restore it.
+
+## 2026-11-17: Robot mower requirements: wire is fine, no running costs
+
+User decided: a boundary wire is acceptable and they will install it themselves; no subscriptions or running costs beyond blades; theft protection isn't worth paying extra for; slope, noise, safety and runtime don't matter beyond finishing 250 m² in 8 hours. Edge trimming (raised lawn edges, fences, under a hedge) is the main priority.
+**Why:** Fits their lawn (flat, 250 m², light tree cover) and they want the lowest ongoing cost. Wire-free models gained nothing here and often bring subscriptions. Full requirements are in `docs/robot-mowers-nz.md`.
