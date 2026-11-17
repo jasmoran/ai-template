@@ -16,7 +16,7 @@ Wire: **No** = RTK/GPS, camera or LiDAR virtual boundary; **EPOS add-on** = Husq
 | Gardena Sileno Life 750 | $2,349 | 750 m² | No | Yes | PriceSpy 4.5★(3) |
 | Mova ViAX 250 / 500 | $1,599 / $1,898 | ~250 / ~500 m²? | ? | No (vision) | – |
 | Mova 600 UltraView / Mova 1000 | $1,999 / $2,299 | 600 / 1,000 m² | ? | No | – / PriceSpy 3.5★(1) |
-| Worx Landroid M700 / M1000 / L1500 | ~$1,699 / $2,399 / $2,549–2,699 | 700 / 1,000 / 1,500 m² | Partial (offset "cut to edge") | Yes | – |
+| Worx Landroid M700 / M1000 / L1500 | ~$2,500 (user-checked) / $2,399? / $2,549–2,699 | 700 / 1,000 / 1,500 m² | Partial (offset "cut to edge") | Yes | – |
 | Dreame A1 Pro 2000 | $1,997–3,499 | 2,000 m² | Partial (~5 cm edge mode) | No (LiDAR) | PriceSpy 4★(13) |
 | Eufy E15 | $2,099–3,499 (PB Tech listings disagree) | ~800 m²? | ? | No (vision) | – |
 | Segway Navimow i105A | $2,198 | 500 m² (i-series up to 800) | Partial | No (RTK + vision) | Consumer NZ 94 (best small lawn, 2025) |
@@ -58,7 +58,7 @@ Not found in NZ: Ryobi and Ozito robot mowers (Bunnings NZ sells none), Dreame A
 ## Shortlist for these requirements
 
 1. **Husqvarna 310E NERA ($3,790).** EdgeCut is a separate rear disc that runs along the boundary and works with a physical wire (confirmed on Husqvarna NZ's support page). It's the only wired model found that cuts the strip a wired mower otherwise leaves by fences and drops. Oversized (1,000 m²), but it's the cheapest model with EdgeCut. The 410XE has the same EdgeCut for $700 more and adds nothing this lawn needs.
-2. **Worx Landroid M700 (~$1,699).** Blade offset to one side ("cut to edge", about 4.5 cm from the edge of the body). Cheap and wired. The edge result depends on how the wire is laid, and the classic manual says to keep the wire 26 cm from a step.
+2. **Worx Landroid M700 (~$2,500, user-checked 2026-11-17; the earlier ~$1,699 search figure was wrong).** Blade offset to one side ("cut to edge", about 4.5 cm from the edge of the body). Wired. At this price it's a poor middle option: about $1,150 more than the Gardena for the offset blade alone, and only about $1,300 less than the Husqvarna 310E. The edge result depends on how the wire is laid, and the classic manual says to keep the wire 26 cm from a step.
 3. **Gardena Sileno City / Minimo 250 ($1,349–1,648).** Cheapest. Sized for exactly 250 m², which is fine given the 8-hour window. No edge feature, so plan on hand-trimming every edge.
 
 Physical limits (apply to every model):
